@@ -1,2 +1,2 @@
-# MimicClusterComputing
-Small project to mimic cluster computing with single node using threads.
+# MimicMapReduce
+Small project to mimic mapreduce on your PC using threads.
